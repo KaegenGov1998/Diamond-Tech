@@ -1,0 +1,33 @@
+body {
+  background-color: #00132B;
+}
+
+p, h1, h2, h3 {
+  color: aliceblue;
+}
+
+.nav-link{
+  color: aliceblue;
+}
+
+.nav-link:hover{
+  color: rgb(249, 249, 249);
+}
+
+.btn-primary{
+  background-color: #F34A7F;
+  border-color: #F34A7F;
+}
+
+.btn-primary:hover{
+  background-color: #00132B;
+  border-color: #F34A7F;
+  color: #F34A7F;
+}
+
+.feature-icon{
+  color: #F34A7F;
+}
+.container-nav a{
+  color: #F34A7F;
+}
